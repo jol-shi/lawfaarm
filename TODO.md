@@ -1,8 +1,9 @@
 # Task Progress: Run Project
 
 ## Steps:
-- [ ] Complete pnpm install (running)
-- [ ] Run pnpm dev
-- [x] Updated next.config.mjs for HMR (assumed done)
+- [x] Removed pnpm-lock.yaml and corrupted node_modules
+- [ ] Complete npm install (running)
+- [ ] Run `npm run dev`
+- [x] HMR config updated (assumed)
 
-Wait for install to finish, then `pnpm dev`. Access at http://localhost:3000.
+Wait for npm install to finish, then `npm run dev`. App at http://localhost:3000.
