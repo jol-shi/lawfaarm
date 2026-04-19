@@ -11,7 +11,7 @@ import type {
 export const mockUsers: User[] = [
   {
     id: "1",
-    name: "Adv. Rajesh Kumar",
+    name: "Adv.Kamal khan",
     email: "rajesh@lawchamber.com",
     role: "head_advocate",
     phone: "+91 98765 43210",
@@ -19,7 +19,7 @@ export const mockUsers: User[] = [
   },
   {
     id: "2",
-    name: "Adv. Priya Sharma",
+    name: "Adv. Abdul Aziz",
     email: "priya@lawchamber.com",
     role: "associate",
     phone: "+91 98765 43211",
@@ -27,7 +27,7 @@ export const mockUsers: User[] = [
   },
   {
     id: "3",
-    name: "Adv. Amit Singh",
+    name: "Adv. Abdul Alim",
     email: "amit@lawchamber.com",
     role: "associate",
     phone: "+91 98765 43212",
@@ -35,7 +35,7 @@ export const mockUsers: User[] = [
   },
   {
     id: "4",
-    name: "Rohan Patel",
+    name: "Robin Khan",
     email: "rohan@lawchamber.com",
     role: "intern",
     phone: "+91 98765 43213",
@@ -43,7 +43,7 @@ export const mockUsers: User[] = [
   },
   {
     id: "5",
-    name: "Sneha Gupta",
+    name: "Salam Shikde",
     email: "sneha@lawchamber.com",
     role: "intern",
     phone: "+91 98765 43214",
@@ -58,14 +58,14 @@ export const mockCases: Case[] = [
     title: "Property Dispute - Sharma vs. Verma",
     client: {
       id: "cl1",
-      name: "Ramesh Sharma",
+      name: "Ramisha Mitu",
       phone: "+91 98765 11111",
       email: "ramesh.sharma@email.com",
       address: "123, MG Road, Mumbai",
     },
     opponent: {
       id: "op1",
-      name: "Suresh Verma",
+      name: "Samioul Islam",
       phone: "+91 98765 22222",
       advocateName: "Adv. Sanjay Mehta",
     },
